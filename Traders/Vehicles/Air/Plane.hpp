@@ -1,6 +1,6 @@
 class FFAAPlanes
 {
-	name = "FFAA Aviones";
+	name = "FFAA Planes";
 	icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
 	items[] =
 	{
